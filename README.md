@@ -8,7 +8,3 @@ Following, I will show the picture about this project:
 
 <img src="images4/project 4.png" width="900">
 
-
-Moreover, I put a video about this project.
-
-<img src="images4/project 4.mp4" width="900">
